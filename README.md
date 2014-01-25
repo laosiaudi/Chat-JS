@@ -11,7 +11,7 @@ A Web Chatting Room based on NodeJS
 
 ChatJS is a web chatting room which supports group talk and p2p talk.And it is based on `NodeJS`,using `Express`,`Jade` and `Socket.io`.  
  
-##Dependency  
+##Dependencies
 1.`NodeJS`  
 2.`Express`  
 3.`Socket.io`  
@@ -23,7 +23,7 @@ ChatJS is a web chatting room which supports group talk and p2p talk.And it is b
 3. Login page uses a sample of `Bootstrap`. 
 
 
-##Support
+##Features
 1. Group talk,several people can talk at the same time.  
 2. P2P talk,just like QQ or MSN.  
 
@@ -33,4 +33,5 @@ ChatJS is a web chatting room which supports group talk and p2p talk.And it is b
 3. Several P2P talks  
 4. Much more user-friendly interface(I need a frontend engineer...)  
   
-  
+##Copyright and License  
+Copyright 2014 laosiaudi, under the [the MIT license](https://github.com/laosiaudi/Chat-JS/blob/master/LICENSE)
