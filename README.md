@@ -4,7 +4,7 @@ ChatJS
 A Web Chatting Room based on NodeJS
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/laosiaudi/chatjs/trend.png)](https://bitdeli.com/free "Bitdeli Badge")  
+
 ChatJS is a web chatting room which supports group talk and p2p talk.And it is based on `NodeJS`,using `Express`,`Jade` and `Socket.io`.  
  
 ##Dependency  
