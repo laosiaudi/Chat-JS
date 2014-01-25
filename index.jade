@@ -1,0 +1,36 @@
+doctype html 
+html(lang = 'en')
+ head
+  title ChatJS
+  link(rel="stylesheet" type="text/css" href="style.css")
+  script(src="/socket.io/socket.io.js")
+  script(src = "prototype.js")
+  script(src = "active.js" defer)
+ body
+  nav#navi
+    h1#username=username
+    h2 Welcome to Web Chat Room!
+  p='Hello ' + username
+  div#container
+    div#content
+    div#userlist
+      |onLine User:
+    div#roomnameset
+      input(
+        id="roomname",
+        type="text",
+        placeholder="input a roomname"
+      )
+    div#chat
+     input(
+      id="input",
+      type="text",
+      name="chat"
+      )
+     button(
+       id = 'submit',
+       type="submit",
+       onclick='submit()'
+     ). submit
+    div#pchat
+

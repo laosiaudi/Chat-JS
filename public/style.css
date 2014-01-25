@@ -1,0 +1,48 @@
+body{
+  font-family:Arial,sans-serif;
+  font-size:20px;
+}
+
+#container{
+  margin-left:auto;
+  margin-right:auto;
+  width:800px;
+}
+
+#content{
+  float:left;
+  width:300px;
+  height:800px;
+  border:1px solid black;
+  overflow:auto;
+}
+
+#userlist{
+  float:right;
+  width:200px;
+  height:500px;
+  border:1px solid black;
+}
+#pchat{
+  float:right;
+  
+}
+#chat{
+  position:absolute;
+  clear:both;
+  left:100px;
+  top:200px;
+}
+
+.username{
+  border:0px;
+  margin:0px;
+}
+
+.username:hover{
+  background:#CDDAD9;
+}
+
+#navi{
+  background:#CDDAD9;
+}
