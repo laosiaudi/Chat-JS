@@ -30,3 +30,7 @@ ChatJS is a web chatting room which supports group talk and p2p talk.And it is b
 4. Much more user-friendly interface(I need a frontend engineer...)  
   
   
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/laosiaudi/chat-js/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
